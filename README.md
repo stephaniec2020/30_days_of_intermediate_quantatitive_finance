@@ -7,17 +7,17 @@ Quantitative finance is a multidisciplinary field that combines finance, mathema
 ## Syllabus
 Here's  brief overview of the syllabus for my 30-day journey:
 
-Day 1: Introduction to Quantitative Finance
-Day 2-6: Statistical Arbitrage
-Day 7-8: Momentum Strategies
-Day 9-10: Multi-facor trading
-Day 11-13: Machine Learning in Quantitative Finance
-Day 14-16: Algorithmic Trading
-Day 17: Financial Derivatives
-Day 18-20: Options Trading Strategies
-Day 21-22: Futures Trading Strategies
-Day 24-25:High frequency trading
-Day 25-27: Risk Management and Portfolio Optimization
+Day 1: Introduction to Quantitative Finance\
+Day 2-6: Statistical Arbitrage\
+Day 7-8: Momentum Strategies\
+Day 9-10: Multi-facor trading\
+Day 11-13: Machine Learning in Quantitative Finance\
+Day 14-16: Algorithmic Trading\
+Day 17: Financial Derivatives\
+Day 18-20: Options Trading Strategies\
+Day 21-22: Futures Trading Strategies\
+Day 24-25:High frequency trading\
+Day 25-27: Risk Management and Portfolio Optimization\
 Day 28-30: Real-World Applications of Quantitative Finance
 
 ## Progress
