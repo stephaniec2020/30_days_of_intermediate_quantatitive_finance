@@ -10,7 +10,7 @@ Here's  brief overview of the syllabus for my 30-day journey:
 Day 1: Introduction to Quantitative Finance\
 Day 2-6: Statistical Arbitrage\
 Day 7-8: Momentum Strategies\
-Day 9-10: Multi-facor trading\
+Day 9-10: Multi-factor trading\
 Day 11-13: Machine Learning in Quantitative Finance\
 Day 14-16: Algorithmic Trading\
 Day 17: Financial Derivatives\
